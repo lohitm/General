@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+#This script takes input from a text file with list of hostnames to be masked. Along with that it also masks all IP addresses
 
 use strict;
 
