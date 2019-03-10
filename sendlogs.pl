@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 #This script takes input from a text file with list of hostnames to be masked. Along with that it also masks all IP addresses
+#Usage: perl sendlogs.pl <node file>
+#Refer README/sendlogs_README.md for more information
 #It has been tested only on CentOS and RHEL systems. Will not work on Windows
 
 use strict;
